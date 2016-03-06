@@ -12,6 +12,7 @@ void setup() {
 //second ellipse
  float x1 = 20;
  float y1 = 450;
+ //since I want them in same size so I did not set up a new radius.
  float vx = 3;
  float vy = 1;
  
